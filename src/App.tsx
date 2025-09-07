@@ -89,7 +89,7 @@ function App() {
         </button>
         <div className="fixed top-6 right-6 z-50">
           <a 
-            href="https://x.com" 
+            href="https://x.com/thebootygamesol" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-white hover:text-gray-300 transition-colors duration-200"
